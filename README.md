@@ -1,4 +1,4 @@
-# Crop and Weed Detection using YOLOv8
+# 🌱 Crop and Weed Detection using YOLOv8
 
 This project presents a **deep learning-based solution** for real-time **crop and weed detection** in agricultural fields.  
 By leveraging the **YOLOv8 object detection model**, the system can accurately identify and differentiate between sesame crops and invasive weeds from image data.
